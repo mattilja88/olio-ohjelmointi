@@ -1,8 +1,6 @@
 #include "chef.h"
 #include "italiancheff.h"
-
 #include <iostream>
-
 using namespace std;
 
 int main()
